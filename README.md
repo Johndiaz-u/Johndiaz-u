@@ -1,5 +1,9 @@
 # 💫 About Me:
-Soy ingeniero en ciencias de la computación con más de cinco años de experiencia en el campo de la ciencia de datos. Mi sólida formación en ingeniería de sistemas ha sido fundamental para desarrollar mis habilidades técnicas, las cuales he aplicado con éxito en la ciencia de datos.<br><br>A lo largo de mi carrera, he trabajado en la exploración y análisis de datos utilizando principalmente Python. He tenido la oportunidad de diseñar soluciones innovadoras para abordar problemas complejos. Mi experiencia incluye la gestión y análisis de bases de datos de gran tamaño, así como la creación de visualizaciones efectivas para comunicar resultados clave.<br><br>Me apasiona aprender constantemente y enfrentar nuevos desafíos en este campo en constante evolución. Como profesional de la ciencia de datos, estoy entusiasmado por colaborar en proyectos interesantes y contribuir a la comunidad de GitHub.
+I am a computer science engineer with over five years of experience in the field of data science. My strong background in systems engineering has been essential in developing my technical skills, which I have successfully applied in the field of data science.
+
+Throughout my career, I have worked on data exploration and analysis primarily using Python. I have had the opportunity to design innovative solutions to tackle complex problems. My experience includes managing and analyzing large-scale databases, as well as creating effective visualizations to communicate key findings.
+
+I am passionate about continuous learning and embracing new challenges in this ever-evolving field. As a data science professional, I am excited to collaborate on interesting projects and contribute to the GitHub community.
 
 
 ## 🌐 Socials:
